@@ -1,0 +1,156 @@
+[
+  {
+    "perfume_name": "Chamo",
+    "brand": "Tamburins",
+    "photo": "photos/Chamo.jpg",
+    "notes": {
+      "top": ["Bergamot", "Pink Pepper"],
+      "middle": ["Iris", "Rose"],
+      "base": ["Sandalwood", "Amber", "Musk"]
+    },
+    "longevity": "Good"
+  },
+  {
+    "perfume_name": "Bal d'Afrique",
+    "brand": "Byredo",
+    "photo": "photos/bal_d_afrique.jpg",
+    "notes": {
+      "top": ["Bergamot", "Lemon", "Neroli", "African Marigold", "Buchu"],
+      "middle": ["Violet", "Jasmine", "Cyclamen"],
+      "base": ["Black Amber", "Musk", "Vetiver", "Cedarwood"]
+    },
+    "longevity": "Moderate to long-lasting"
+  },
+  {
+    "perfume_name": "Gypsy Water",
+    "brand": "Byredo",
+    "photo": "photos/gypsy_water.jpg",
+    "notes": {
+      "top": ["Bergamot", "Lemon", "Pepper", "Juniper Berries"],
+      "middle": ["Incense", "Pine Needle", "Orris"],
+      "base": ["Amber", "Vanilla", "Sandalwood"]
+    },
+    "longevity": "Moderate"
+  },
+  {
+    "perfume_name": "Orphéon",
+    "brand": "Diptyque",
+    "photo": "photos/orpheon.jpg",
+    "notes": {
+      "top": ["Juniper Berries"],
+      "middle": ["Powdery Notes", "Cedar"],
+      "base": ["Tonka Bean"]
+    },
+    "longevity": "Moderate to long-lasting"
+  },
+  {
+    "perfume_name": "Tam Dao",
+    "brand": "Diptyque",
+    "photo": "photos/tam_dao.jpg",
+    "notes": {
+      "top": ["Italian Cypress", "Myrtle", "Rose"],
+      "middle": ["Sandalwood", "Cedar"],
+      "base": ["Spices", "Amber", "White Musk"]
+    },
+    "longevity": "Moderate"
+  },
+  {
+    "perfume_name": "Replica Jazz Club",
+    "brand": "Maison Margiela",
+    "photo": "photos/replica_jazz_club.jpg",
+    "notes": {
+      "top": ["Pink Pepper", "Neroli", "Lemon"],
+      "middle": ["Rum", "Clary Sage", "Vetiver"],
+      "base": ["Tobacco Leaf", "Vanilla", "Styrax"]
+    },
+    "longevity": "Long-lasting"
+  },
+  {
+    "perfume_name": "Replica By the Fireplace",
+    "brand": "Maison Margiela",
+    "photo": "photos/by_the_fireplace.jpg",
+    "notes": {
+      "top": ["Clove", "Pink Pepper", "Orange Blossom"],
+      "middle": ["Chestnut", "Guaiac Wood", "Juniper"],
+      "base": ["Vanilla", "Peru Balsam", "Cashmeran"]
+    },
+    "longevity": "Long-lasting"
+  },
+  {
+    "perfume_name": "Portrait of a Lady",
+    "brand": "Frédéric Malle",
+    "photo": "photos/portrait_of_a_lady.jpg",
+    "notes": {
+      "top": ["Rose", "Cinnamon", "Clove", "Blackcurrant"],
+      "middle": ["Raspberry", "Incense"],
+      "base": ["Patchouli", "Sandalwood", "Musk", "Benzoin"]
+    },
+    "longevity": "Very long-lasting"
+  },
+  {
+    "perfume_name": "Carnal Flower",
+    "brand": "Frédéric Malle",
+    "photo": "photos/carnal_flower.jpg",
+    "notes": {
+      "top": ["Tuberose", "Melon", "Eucalyptus"],
+      "middle": ["Jasmine", "Ylang-Ylang", "White Flowers"],
+      "base": ["Musk", "Coconut"]
+    },
+    "longevity": "Long-lasting"
+  },
+  {
+    "perfume_name": "Santal 33",
+    "brand": "Le Labo",
+    "photo": "photos/santal_33.jpg",
+    "notes": {
+      "top": ["Cardamom"],
+      "middle": ["Iris", "Violet"],
+      "base": ["Sandalwood", "Cedarwood", "Leather", "Musk"]
+    },
+    "longevity": "Very long-lasting"
+  },
+  {
+    "perfume_name": "Prada L'Homme",
+    "brand": "Prada",
+    "photo": "photos/prada_l_homme.jpg",
+    "notes": {
+      "top": ["Neroli", "Black Pepper", "Cardamom"],
+      "middle": ["Iris", "Violet", "Geranium"],
+      "base": ["Amber", "Cedar", "Patchouli"]
+    },
+    "longevity": "Moderate"
+  },
+  {
+    "perfume_name": "Delina",
+    "brand": "Parfums de Marly",
+    "photo": "photos/delina.jpg",
+    "notes": {
+      "top": ["Lychee", "Rhubarb", "Bergamot"],
+      "middle": ["Turkish Rose", "Peony", "Vanilla"],
+      "base": ["Cashmeran", "Cedar", "Musk"]
+    },
+    "longevity": "Long-lasting"
+  },
+  {
+    "perfume_name": "Meliora",
+    "brand": "Parfums de Marly",
+    "photo": "photos/meliora.jpg",
+    "notes": {
+      "top": ["Blackcurrant", "Red Berries", "Cassia"],
+      "middle": ["Rose", "Lily of the Valley", "Ylang-Ylang"],
+      "base": ["Vanilla", "Musk", "Cedar"]
+    },
+    "longevity": "Moderate to long-lasting"
+  },
+  {
+    "perfume_name": "Baccarat Rouge 540",
+    "brand": "Maison Francis Kurkdjian",
+    "photo": "photos/Baccarat_rouge_540.jpg",
+    "notes": {
+      "top": ["Saffron", "Jasmine"],
+      "middle": ["Amberwood"],
+      "base": ["Fir Resin", "Cedar"]
+    },
+    "longevity": "Very long-lasting"
+  }
+]

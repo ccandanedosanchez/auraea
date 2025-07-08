@@ -1,0 +1,72 @@
+{
+  "Citrus": [
+    "Bergamot",
+    "Lemon",
+    "Orange",
+    "Lime",
+    "Neroli",
+    "Rhubarb"  
+  ],
+  "Fruity": [
+    "Lychee",
+    "Blackcurrant",
+    "Red Berries",
+    "Peach",
+    "Melon"
+  ],
+  "Floral": [
+    "Rose",
+    "Iris",
+    "Jasmine",
+    "Peony",
+    "Violet",
+    "Ylang-Ylang",
+    "Lily of the Valley",
+    "Turkish Rose",
+    "Orange Blossom"  
+  ],
+  "Wood": [
+    "Sandalwood",
+    "Cedarwood",
+    "Cedar",
+    "Patchouli",
+    "Vetiver",
+    "Guaiac Wood"
+  ],
+  "Amber": [
+    "Amber",
+    "Amberwood",
+    "Black Amber",
+    "Vanilla",
+    "Labdanum",
+    "Peru Balsam",
+    "Styrax",
+    "Cashmeran",
+    "Fir Resin",
+    "Incense",
+    "Myrrh",
+    "Benzoin"
+  ],
+  "Spice": [
+    "Pink Pepper",
+    "Clove",
+    "Cinnamon",
+    "Cardamom"
+  ],
+
+  "Green": [
+    "Juniper Berries",
+    "Pine Needle",
+    "Clary Sage",
+    "Grass",
+    "Myrtle"
+  ],
+  "Other": [
+    "Musk",
+    "Leather",
+    "Rum",
+    "Chestnut",
+    "Coconut",
+    "Tobacco Leaf"
+  ]
+}

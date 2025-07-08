@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/remixicon@4.5.0/fonts/remixicon.css" rel="stylesheet"/>
+    <link rel="stylesheet" href="https://unpkg.com/boxicons@latest/css/boxicons.min.css">
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="styles/style.css">
+    <title>Perfume Details</title>
+</head>
+<body>
+    <header class="header">
+        <div class="menu-btn">
+            <i class="ri-menu-line"></i>
+        </div>
+        <ul class="navbar">
+            <li><a href="index.html">Home</a></li>
+            <li><a href="category.html">Categories</a></li>
+            <li><a href="brands.html">Brands</a></li>
+            <li><a href="perfumes.html" class="active">Perfumes</a></li>
+            <li><a href="notes.html">Notes</a></li>
+        </ul>
+    </header>
+    
+    <div id="perfume-container">
+        <div class="perfume-detail-container">
+            <div class="perfume-header">
+                <img id="perfume-image" src="" alt="" class="perfume-image">
+                <h1 id="perfume-name"></h1>
+                <p class="perfume-brand" id="perfume-brand"></p>
+            </div>
+            <div class="perfume-specs">
+                <div class="clock-item">
+                    <i class="ri-time-line"></i>
+                    <span id="perfume-longevity"></span>
+                </div>
+            </div>
+            <div class="notes-section">
+                <div class="notes-column">
+                    <h3><i class="ri-arrow-up-line"></i> Top Notes</h3>
+                    <p id="top-notes"></p>
+                </div>
+                <div class="notes-column">
+                    <h3><i class="ri-arrow-right-left-line"></i> Middle Notes</h3>
+                    <p id="middle-notes"></p>
+                </div>
+                <div class="notes-column">
+                    <h3><i class="ri-arrow-down-line"></i> Base Notes</h3>
+                    <p id="base-notes"></p>
+                </div>
+            </div>
+        </div>
+    </div>
+ 
+    <div class="btn-section">
+        <a href="notes.html" class="btn-back" id="clear-filter">Go Back To Notes</a> 
+        <a href="perfumes.html" class="btn-back" id="clear-filter">Show All Perfumes</a>
+    </div>
+
+    <footer class="footer">
+        <p> Designed & developed by Cristina C.</p>
+    </footer>
+
+    <script src="js/perfume.js"></script>
+    <script src="js/navbar.js"></script>
+    
+</body>
+</html>
