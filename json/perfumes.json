@@ -112,7 +112,7 @@
   {
     "perfume_name": "Prada L'Homme",
     "brand": "Prada",
-    "photo": "photos/prada_l_homme.jpg",
+    "photo": "photos/Prada_l_homme.jpg",
     "notes": {
       "top": ["Neroli", "Black Pepper", "Cardamom"],
       "middle": ["Iris", "Violet", "Geranium"],
@@ -123,7 +123,7 @@
   {
     "perfume_name": "Delina",
     "brand": "Parfums de Marly",
-    "photo": "photos/delina.jpg",
+    "photo": "photos/Delina.jpg",
     "notes": {
       "top": ["Lychee", "Rhubarb", "Bergamot"],
       "middle": ["Turkish Rose", "Peony", "Vanilla"],
@@ -134,7 +134,7 @@
   {
     "perfume_name": "Meliora",
     "brand": "Parfums de Marly",
-    "photo": "photos/meliora.jpg",
+    "photo": "photos/Meliora.jpg",
     "notes": {
       "top": ["Blackcurrant", "Red Berries", "Cassia"],
       "middle": ["Rose", "Lily of the Valley", "Ylang-Ylang"],
